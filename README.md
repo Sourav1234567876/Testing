@@ -1,2 +1,2 @@
 # Testing
-Testing My Skills. 
+Testing My Skills for GitHub.
